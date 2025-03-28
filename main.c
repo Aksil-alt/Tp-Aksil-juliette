@@ -1,4 +1,4 @@
-
+git add quotes.c quotes.h main.c
 
 
 
